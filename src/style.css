@@ -1,0 +1,11 @@
+body,html {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+circle {
+	stroke: blue;
+	stroke-width: 2px;
+	opacity: 0.8;
+}

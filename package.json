@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "d3": "^6.5.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^6.3.0",
+    "esbuild": "^0.11.12"
+  },
+  "scripts": {
+    "build": "webpack --mode production",
+    "watch": "webpack serve --mode development"
+  }
+}
